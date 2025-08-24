@@ -88,7 +88,7 @@ The easiest way to run the project is through the provided Jupyter notebooks, wh
 2.  **Decoder:** An **LSTM** network generates the caption one word at a time.
 3.  **Attention:** The **Bahdanau Attention** layer helps the decoder decide which parts of the image to focus on for each word generation step, significantly improving caption quality.
 
-## 📊 Results & Evaluation
+## Results & Evaluation
 
 The model is evaluated using the **BLEU (Bilingual Evaluation Understudy) Score**, a standard metric for evaluating the quality of machine-generated text against human-written references.
 
@@ -133,7 +133,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 *   TensorFlow and Keras teams for excellent documentation and tutorials.
 *   Inspired by various research papers and online tutorials on image captioning and attention mechanisms.
 
-## 📧 Contact
+## Contact
 
 Koushik - tkkoushikinin@gmail.com
 
