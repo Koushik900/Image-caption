@@ -5,7 +5,6 @@ An end-to-end deep learning project that generates descriptive captions for imag
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12%2B-orange?logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=keras&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Features
 
