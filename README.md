@@ -133,6 +133,14 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 *   TensorFlow and Keras teams for excellent documentation and tutorials.
 *   Inspired by various research papers and online tutorials on image captioning and attention mechanisms.
 
+## Team
+
+This project was collaboratively developed by:
+
+| [<img src="https://github.com/Koushik900.png?size=115" width=115><br><sub>Koushik900</sub>](https://github.com/Koushik900) | [<img src="https://github.com/SamyakAnand.png?size=115" width=115><br><sub>SamyakAnand</sub>](https://github.com/SamyakAnand) | [<img src="https://github.com/saivardhankalvala.png?size=115" width=115><br><sub>saivardhankalvala</sub>](https://github.com/saivardhankalvala) | [<img src="https://github.com/swethar6232.png?size=115" width=115><br><sub>swethar6232</sub>](https://github.com/swethar6232) |
+|:-------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
+|                                 **Koushik**                                                                               |                                        **Samyak Anand**                                                                      |                                        **Sai Vardhan Kalvala**                                                                                   |                                        **Swetha Reddy**                                                                      |
+
 ## Contact
 
 Koushik - tkkoushikinin@gmail.com
